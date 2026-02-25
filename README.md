@@ -1,2 +1,2 @@
 # Samsung-A07
-flah
+flash
